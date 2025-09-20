@@ -1,7 +1,7 @@
 ---
 home: true
 layout: Blog
-bgImage: /public/assets/images/qingdao1.jpg
+bgImage: /assets/images/qingdao1.jpg
 icon: house
 title: Blog Home
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
