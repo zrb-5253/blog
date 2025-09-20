@@ -1,7 +1,7 @@
 ---
 home: true
 layout: Blog
-bgImage: '/images/cover3.jpg'
+bgImage: /assets/images/cover2.jpg
 icon: house
 title: Blog Home
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
