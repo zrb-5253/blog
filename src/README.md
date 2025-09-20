@@ -6,7 +6,7 @@ title: Blog Home
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
 heroText: Zhou Runbin Blog
 tagline: just do it
-bgImage：D:\blog\zhourunbin\blog\src\.vuepress\public\assets\images\qingdao1.jpg
+bgImage：\src\.vuepress\public\assets\images\qingdao1.jpg
 heroFullScreen: true
 projects:
   - icon: folder-open
