@@ -1,12 +1,12 @@
 ---
 home: true
 layout: Blog
+bgImage:'\images\qingdao1.jpg'
 icon: house
 title: Blog Home
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
 heroText: Zhou Runbin Blog
 tagline: just do it
-bgImage：\images\qingdao1.jpg
 heroFullScreen: true
 projects:
   - icon: folder-open
