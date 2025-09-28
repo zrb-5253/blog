@@ -3,11 +3,11 @@ home: true
 layout: Blog
 bgImage: '/assets/images/qingdao1.jpg'
 icon: house
-title: 博客主页
+title: home
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: Zhou Runbin Blog
+heroText: Ice Blog
 heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语
+tagline: Hope is everything
 projects:
   - icon: folder-open
     name: 项目名称
