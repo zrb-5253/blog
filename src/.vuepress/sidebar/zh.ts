@@ -26,16 +26,16 @@ export const zhSidebar = sidebar({
   "/zh/book/": [
     "", // 这对应 `/zh/book/README.md` 文件，通常作为目录页
     {
-      text: "书籍推荐",
+      text: "项目",
       icon: "book", // 可以选择一个合适的图标
-      prefix: "book/",
-      link: "demo/",
+      prefix: "project/",
+      
       children: "structure", // 自动生成 `books/` 目录下的所有子项
     },
     {
-      text: "读书笔记",
+      text: "生活",
       icon: "note",
-      prefix: "notes/",
+      prefix: "life/",
       children: "structure", // 自动生成 `notes/` 目录下的所有子项
     },
   ],
