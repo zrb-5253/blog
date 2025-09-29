@@ -13,7 +13,7 @@ export default defineUserConfig({
     },
     "/zh/": {
       lang: "zh-CN",
-      title: "博客演示",
+      title: "Ice Blog ",
       description: "vuepress-theme-hope 的博客演示",
     },
   },

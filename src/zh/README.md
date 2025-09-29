@@ -7,7 +7,7 @@ title: home
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
 heroText: Ice Blog
 heroFullScreen: true
-tagline: Hope is everything
+# tagline: Hope is everything
 projects:
   - icon: folder-open
     name: 项目名称
