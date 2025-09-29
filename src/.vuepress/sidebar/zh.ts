@@ -42,47 +42,19 @@ export const zhSidebar = sidebar({
   "/zh/code/": [
     "", // 这对应 `/zh/book/README.md` 文件，通常作为目录页
     {
-      text: "c/c++",
+      text: "编程",
       icon: "book", // 可以选择一个合适的图标
-      prefix: "book/",
-      link: "demo/",
-      children: "structure", // 自动生成 `books/` 目录下的所有子项
+      prefix: "promgram/",
+      
+      children: "structure", 
     },
     {
-      text: "python",
+      text: "工具",
       icon: "note",
-      prefix: "notes/",
-      link: "demo/",
-      children: "structure", // 自动生成 `notes/` 目录下的所有子项
+      prefix: "tools/",
+      children: "structure", 
     },
-    {
-      text: "VUE",
-      icon: "note",
-      prefix: "notes/",
-      link: "demo/",
-      children: "structure", // 自动生成 `notes/` 目录下的所有子项
-    },
-    {
-      text: "stm32",
-      icon: "note",
-      prefix: "notes/",
-      link: "demo/",
-      children: "structure", // 自动生成 `notes/` 目录下的所有子项
-    },
-    {
-      text: "linux",
-      icon: "note",
-      prefix: "notes/",
-      link: "demo/",
-      children: "structure", // 自动生成 `notes/` 目录下的所有子项
-    },
-    {
-      text: "QT",
-      icon: "note",
-      prefix: "notes/",
-      link: "demo/",
-      children: "structure", // 自动生成 `notes/` 目录下的所有子项
-    },
+
   ],
   "/zh/stduy/": [
     "", // 这对应 `/zh/book/README.md` 文件，通常作为目录页
@@ -90,7 +62,7 @@ export const zhSidebar = sidebar({
       text: "算法学习",
       icon: "book", // 可以选择一个合适的图标
       prefix: "book/",
-      
+      link: "demo/",
       children: "structure", // 自动生成 `books/` 目录下的所有子项
     },
     {
