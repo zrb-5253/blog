@@ -23,4 +23,19 @@ export const zhSidebar = sidebar({
       link: "https://ecosystem.vuejs.press/zh/plugins/markdown/revealjs/demo.html",
     },
   ],
+  "/zh/book/": [
+    "", // 这对应 `/zh/book/README.md` 文件，通常作为目录页
+    {
+      text: "书籍推荐",
+      icon: "book", // 可以选择一个合适的图标
+      prefix: "books/",
+      children: "structure", // 自动生成 `books/` 目录下的所有子项
+    },
+    {
+      text: "读书笔记",
+      icon: "note",
+      prefix: "notes/",
+      children: "structure", // 自动生成 `notes/` 目录下的所有子项
+    },
+  ],
 });
