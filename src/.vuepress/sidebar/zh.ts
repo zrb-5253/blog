@@ -56,32 +56,15 @@ export const zhSidebar = sidebar({
     },
 
   ],
-  "/zh/stduy/": [
+  "/zh/study/": [
     "", // 这对应 `/zh/book/README.md` 文件，通常作为目录页
     {
-      text: "算法学习",
+      text: "写论文必学",
       icon: "book", // 可以选择一个合适的图标
-      prefix: "book/",
-      link: "demo/",
+      
+      
       children: "structure", // 自动生成 `books/` 目录下的所有子项
     },
-    {
-      text: "强化学习",
-      icon: "note",
-      prefix: "notes/",
-      children: "structure", // 自动生成 `notes/` 目录下的所有子项
-    },
-    {
-      text: "ROS",
-      icon: "note",
-      prefix: "notes/",
-      children: "structure", // 自动生成 `notes/` 目录下的所有子项
-    },
-    {
-      text: "Gazebo仿真",
-      icon: "note",
-      prefix: "notes/",
-      children: "structure", // 自动生成 `notes/` 目录下的所有子项
-    },
+
   ],
 });
