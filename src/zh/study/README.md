@@ -1,5 +1,5 @@
 ---
-title: 文章
+title: 主要功能
 index: false
 icon: laptop-code
 category:

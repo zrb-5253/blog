@@ -28,7 +28,8 @@ export const zhSidebar = sidebar({
     {
       text: "书籍推荐",
       icon: "book", // 可以选择一个合适的图标
-      prefix: "books/",
+      prefix: "book/",
+      link: "demo/",
       children: "structure", // 自动生成 `books/` 目录下的所有子项
     },
     {
