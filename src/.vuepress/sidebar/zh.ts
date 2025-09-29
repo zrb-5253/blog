@@ -52,30 +52,35 @@ export const zhSidebar = sidebar({
       text: "python",
       icon: "note",
       prefix: "notes/",
+      link: "demo/",
       children: "structure", // 自动生成 `notes/` 目录下的所有子项
     },
     {
       text: "Markdown",
       icon: "note",
       prefix: "notes/",
+      link: "demo/",
       children: "structure", // 自动生成 `notes/` 目录下的所有子项
     },
     {
       text: "stm32",
       icon: "note",
       prefix: "notes/",
+      link: "demo/",
       children: "structure", // 自动生成 `notes/` 目录下的所有子项
     },
     {
       text: "linux",
       icon: "note",
       prefix: "notes/",
+      link: "demo/",
       children: "structure", // 自动生成 `notes/` 目录下的所有子项
     },
     {
       text: "QT",
       icon: "note",
       prefix: "notes/",
+      link: "demo/",
       children: "structure", // 自动生成 `notes/` 目录下的所有子项
     },
   ],
