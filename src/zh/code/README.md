@@ -1,7 +1,7 @@
 ---
-title: 主要功能
+title: 编程
 index: false
-icon: laptop-code
+icon: code
 category:
   - 使用指南
 ---

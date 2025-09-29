@@ -1,7 +1,7 @@
 ---
-title: 主要功能
+title: 科研
 index: false
-icon: laptop-code
+icon: user-graduate
 category:
   - 使用指南
 ---
