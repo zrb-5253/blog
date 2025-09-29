@@ -4,8 +4,8 @@ layout: Blog
 bgImage: '/assets/images/qingdao1.jpg'
 icon: house
 title: home
-# heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroImage: '/assets/images/tree2.svg'
+heroImage: https://theme-hope-assets.vuejs.press/logo.svg
+# heroImage: '/assets/images/tree2.svg'
 heroText: Ice Blog
 heroFullScreen: true
 # tagline: Hope is everything
