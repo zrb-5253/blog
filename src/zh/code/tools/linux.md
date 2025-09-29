@@ -10,7 +10,7 @@ tag:
   - 圆
 ---
 
-# linux
+# Linux
 
 ## 标题 2
 
