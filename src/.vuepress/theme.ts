@@ -12,7 +12,7 @@ export default hopeTheme({
   },
 
   // logo: "https://theme-hope-assets.vuejs.press/logo.svg",
-  logo: '/assets/images/fish.jpg'
+  logo: '/assets/images/fish.jpg'，
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
