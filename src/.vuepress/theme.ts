@@ -219,6 +219,7 @@ export default hopeTheme({
       watermarkOptions: {
         content: "66666666",
         movable: true,
+        zIndex: 9999,
         opacity: 0.2,
         fontSize: 20,
         color: "#3498db"
