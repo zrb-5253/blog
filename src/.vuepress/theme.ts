@@ -193,7 +193,7 @@ export default hopeTheme({
   },
 
   plugins: {
-    
+    // watermark: true,
     redirect: {
       switchLocale: "direct",
      }, // 或者设置为 false 完全禁用重定向
@@ -217,9 +217,9 @@ export default hopeTheme({
 
     watermark: {
       watermarkOptions: {
-        content: "1112222",
+        content: "66666666",
         movable: true,
-        opacity: 0.1,
+        opacity: 0.2,
         fontSize: 20,
         color: "#3498db"
         // 其他选项
