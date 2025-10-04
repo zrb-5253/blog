@@ -194,9 +194,9 @@ export default hopeTheme({
 
   plugins: {
     
-    redirect: {
-      switchLocale: "direct",
-     }, // 或者设置为 false 完全禁用重定向
+    // redirect: {
+    //   switchLocale: "direct",
+    //  }, // 或者设置为 false 完全禁用重定向
     blog: true,
 
     // Install @waline/client before enabling it
