@@ -193,7 +193,7 @@ export default hopeTheme({
   },
 
   plugins: {
-    watermark: true,
+    
     redirect: {
       switchLocale: "direct",
      }, // 或者设置为 false 完全禁用重定向
@@ -215,13 +215,16 @@ export default hopeTheme({
       prefix: "fa6-solid:",
     },
 
-    // watermark: {
-    //   watermarkOptions: {
-    //     content: "1112222",
-    //     movable: true,
-    //     // 其他选项
-    //   },
-    // },
+    watermark: {
+      watermarkOptions: {
+        content: "1112222",
+        movable: true,
+        opacity: 0.1,
+        fontSize: 20,
+        color: "#3498db"
+        // 其他选项
+      },
+    },
 
     // install @vuepress/plugin-pwa and uncomment these if you want a PWA
     // pwa: {
