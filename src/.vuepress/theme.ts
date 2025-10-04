@@ -195,15 +195,19 @@ export default hopeTheme({
   plugins: {
     // watermark: true,
     watermark: {
+      // 详细的配置选项
       watermarkOptions: {
-        content: "66666666",
-        movable: true,
-        zIndex: 9999,
-        opacity: 0.2,
-        fontSize: 20,
-        color: "#3498db"
-        // 其他选项
-      },
+        content: "VuePress Theme Hope", // 水印内容
+        movable: true,                  // 是否可移动
+        opacity: 0.2,                   // 透明度 (0.1-0.5)
+        fontSize: 20,                   // 字体大小
+        color: "#3498db",               // 字体颜色
+        zIndex: 9999,                   // 层级，确保最高
+        // 更多可选配置
+        width: 200,                     // 水印宽度
+        height: 200,                    // 水印高度
+        rotate: -30,                    // 旋转角度
+      }
     },
     redirect: {
       switchLocale: "direct",
