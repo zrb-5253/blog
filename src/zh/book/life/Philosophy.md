@@ -4,6 +4,11 @@ date: 2022-01-04
 category:
   - 生活
 
+watermark:
+  width: 200
+  height: 200
+  content: Your content
+  opacity: 0.5
 ---
 
 # 哲学
