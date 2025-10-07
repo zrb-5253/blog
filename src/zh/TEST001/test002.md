@@ -5,8 +5,8 @@ category:
 tag:
   - 加密
 
-navbar: false
-sidebar: false
+navbar: true
+sidebar: true
 
 breadcrumb: false
 pageInfo: false
