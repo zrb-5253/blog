@@ -117,7 +117,7 @@ export default hopeTheme({
         password: "1234",
       },
       "/zh/TEST001/test002.html": {
-        hint: "Password: 1234",
+        hint: "Password please ask zrb",
         password: "0216",
       },
     },

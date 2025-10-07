@@ -16,6 +16,7 @@
     "sass-loader": "^16.0.5",
     "vue": "^3.5.17",
     "vuepress": "2.0.0-rc.24",
+    "vuepress-plugin-meting": "^0.3.3",
     "vuepress-theme-hope": "2.0.0-rc.94"
   }
 }
