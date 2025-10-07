@@ -6,6 +6,7 @@ export const zhNavbar = navbar([
   "/zh/code/",
   "/zh/study/",
   "/zh/book/",
+  "/zh/TEST001/",
 
   {
     text: "V2 文档",
