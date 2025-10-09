@@ -1,10 +1,7 @@
-// .vuepress/styles/index.scss
+/* 针对具有 'custom-page-width' 类的页面修改内容宽度 */
+.custom-page-width {
+    $content-width: 1200px 
+    $wide-content-width: 1200px !default;
+    $home-page-width: 1500px !default;
 
-/* 为特定页面设置更宽的内容区域 */
-.wide-page {
-    // 找到页面主要内容容器的选择器，通常包含 'theme-default-content' 类
-    .theme-default-content {
-      // !important 用于确保覆盖默认样式的优先级，有时是必要的
-      max-width: 90% !important; // 您可以尝试 90%, 1200px 等值，直到满意为止
-    }
   }
