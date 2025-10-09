@@ -17,7 +17,6 @@ prev: false
 next: false
 comment: false
 footer: false
-
 layout: custom-page-width
 pageClass: custom-page-width
 containerClass: custom-page-width
