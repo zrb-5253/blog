@@ -1,31 +1,10 @@
-// place your custom styles here
-/* .vuepress/styles/index.css */
-// 自定义列表标记样式
-// 文件：.vuepress/styles/index.scss
+// .vuepress/styles/index.scss
 
-// 自定义无序列表样式
-// .markdown-theme-content ul {
-//     list-style: none;
-//     padding-left: 1.2em;
-//   }
-  
-//   .markdown-theme-content ul li {
-//     position: relative;
-//     margin-bottom: 0.3em; /* 紧凑的行间距 */
-//     line-height: 1.6; /* 合适的行高 */
-//   }
-  
-//   .markdown-theme-content ul li::before {
-//     content: "•";
-//     color: #000;
-//     font-weight: bold;
-//     position: absolute;
-//     left: -0.8em;
-//     font-size: 1.1em;
-//   }
-  
-//   // 确保列表文本颜色和排版
-//   .markdown-theme-content ul li {
-//     color: #000; /* 黑色文字 */
-//     text-align: justify; /* 两端对齐，类似图片效果 */
-//   }
+/* 为特定页面设置更宽的内容区域 */
+.wide-page {
+    // 找到页面主要内容容器的选择器，通常包含 'theme-default-content' 类
+    .theme-default-content {
+      // !important 用于确保覆盖默认样式的优先级，有时是必要的
+      max-width: 90% !important; // 您可以尝试 90%, 1200px 等值，直到满意为止
+    }
+  }

@@ -17,7 +17,7 @@ prev: false
 next: false
 comment: false
 footer: false
-layout: 404
+pageClass: wide-page
 backtotop: false
 ---
 
