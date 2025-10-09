@@ -29,4 +29,4 @@ backtotop: false
 
 段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字。
 
-<BiliBili bvid="BV1wG411X7cH" autoplay=true />
+<BiliBili bvid="BV1wG411X7cH" title="11122" ratio="4:3" autoplay=true />
