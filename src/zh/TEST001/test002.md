@@ -22,19 +22,11 @@ footer: false
 # containerClass: custom-page-width
 backtotop: false
 
-head:
-  - style
-    type: text/css
-    content: |
-      .theme-hope-content {
-        max-width: 1200px !important; /* 将780px修改为你期望的宽度，例如900px */
-      }
-
 
 
 ---
 
-# 密码加密的文章666
+# 密码加密的文章777
 
 ::: center
 <span style="color: #e74c3c; font-family: 'Comic Sans MS', cursive; font-size: 5em; font-weight: bold; background-color: #FBEEE6; padding: 0.2em 0.5em; border-radius: 4px;">这是需要</span> 
