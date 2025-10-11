@@ -12,7 +12,7 @@
   export default {
     data() {
       return {
-        contentWidth: '900px' // 在此控制宽度
+        contentWidth: '90px' // 在此控制宽度
       }
     }
   }
