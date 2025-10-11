@@ -31,7 +31,9 @@ backtotop: false
 
 <vac :end-time="new Date('2026-12-31 23:59:59').getTime()">
   <template slot="process" slot-scope="{ timeObj }">
-    倒计时：{{ timeObj.d }}天 {{ timeObj.h }}小时 {{ timeObj.m }}分钟 {{ timeObj.s }}秒
+    <div style="border: 2px solid red; padding: 10px;">
+      调试信息：d={{ timeObj.d }}, h={{ timeObj.h }}, m={{ timeObj.m }}, s={{ timeObj.s }}
+    </div>
   </template>
-  <template slot="finish">时间到！</template>
+  <template slot="finish">完成</template>
 </vac>
