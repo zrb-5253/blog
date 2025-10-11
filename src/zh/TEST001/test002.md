@@ -27,7 +27,7 @@ backtotop: false
 
 实际的文章内容。
 
-这是一段普通的文字，<span style="color: #e74c3c; font-family: 'Comic Sans MS', cursive; font-size: 1.2em; font-weight: bold; background-color: #f9f3c4; padding: 0.2em 0.5em; border-radius: 4px;">这是需要特别突出显示的那一句文字。</span> 后面的文字又恢复了正常。
+这是一段普通的文字，<span style="color: #e74c3c; font-family: 'Comic Sans MS', cursive; font-size: 3em; font-weight: bold; background-color:rgb(25, 190, 89); padding: 0.2em 0.5em; border-radius: 4px;">这是需要特别突出显示的那一句文字。</span> 后面的文字又恢复了正常。
 
 段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字。
 
