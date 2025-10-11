@@ -29,8 +29,9 @@ backtotop: false
 
 <BiliBili bvid="BV1wG411X7cH" title="11122" ratio="4:3" autoplay=true />
 
-<Countdown 
-  target-date="2024-12-31 23:59:59" 
-  title="新年倒计时"
-  finished-text="🎊 新年快乐！"
-/>
+<vac :end-time="new Date('2026-12-31 23:59:59').getTime()">
+  <template slot="process" slot-scope="{ timeObj }">
+    倒计时：{{ timeObj.d }}天 {{ timeObj.h }}小时 {{ timeObj.m }}分钟 {{ timeObj.s }}秒
+  </template>
+  <template slot="finish">时间到！</template>
+</vac>
