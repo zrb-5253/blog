@@ -29,11 +29,7 @@ backtotop: false
 
 <BiliBili bvid="BV1wG411X7cH" title="11122" ratio="4:3" autoplay=true />
 
-<vac :end-time="new Date('2026-12-31 23:59:59').getTime()">
-  <template slot="process" slot-scope="{ timeObj }">
-    <div style="border: 2px solid red; padding: 10px;">
-      调试信息：d={{ timeObj.d }}, h={{ timeObj.h }}, m={{ timeObj.m }}, s={{ timeObj.s }}
-    </div>
-  </template>
-  <template slot="finish">完成</template>
-</vac>
+<CountdownTimer 
+  target-date="2026-12-31 23:59:59"
+  finished-text="🎊 新年快乐！"
+/>
