@@ -5,3 +5,13 @@
 //     $home-page-width: 1500px !default;
 
 //   }
+/* .vuepress/styles/index.scss */
+
+/* 仅对拥有 .custom-page-width 类名的页面生效 */
+.theme-container.custom-page-width {
+    .theme-hope-content:not(.custom) {
+      max-width: 200px; /* 您期望的宽度 */
+      // 或者使用百分比布局
+      // max-width: 70%;
+    }
+  }
