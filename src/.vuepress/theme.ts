@@ -137,6 +137,7 @@ export default hopeTheme({
     gfm: true,
     imgLazyload: true,
     imgSize: true,
+    imgMark: true,
     include: true,
     mark: true,
     plantuml: true,
