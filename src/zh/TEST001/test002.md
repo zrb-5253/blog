@@ -35,4 +35,4 @@ footer: false
 ::: center
  ==看完后才可以点击右边==  !!66666!!.
 :::
-<img src="/assets/images/qingdao1.jpg" alt="替代文字" width="200" height="300" />
+![VuePress Hope 图标](https://theme-hope-assets.vuejs.press/logo.svg "VuePress Hope 图标" =300x300)
