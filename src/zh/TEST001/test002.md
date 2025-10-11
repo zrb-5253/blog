@@ -20,9 +20,13 @@ footer: false
 # layout: CustomLayout
 # layout: custom-page-width
 # pageClass: custom-page-width
-containerClass: custom-page-width
+# containerClass: custom-page-width
 backtotop: false
-
+watermark:
+  width: 200
+  height: 200
+  content: 666
+  opacity: 0.5
 
 
 ---
