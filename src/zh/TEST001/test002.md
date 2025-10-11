@@ -25,7 +25,7 @@ footer: false
 
 ---
 
-# 国家级机密文件2
+# 国家级机密文件90
 
 ::: center
 <span style="color: #e74c3c; font-family: 'Comic Sans MS', cursive; font-size: 3em; font-weight: bold; background-color: #FBEEE6; padding: 0.2em 0.5em; border-radius: 4px;">测试文字！</span> 
@@ -41,3 +41,5 @@ footer: false
 - [ ] 给准备过明年的生日
 - [ ] ...
 :::
+
+![VuePress Hope 图标](https://theme-hope-assets.vuejs.press/logo.svg "可选标题" =300x300)
