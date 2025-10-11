@@ -32,5 +32,7 @@ footer: false
 :::
 
 <BiliBili bvid="BV1wG411X7cH" title="11122" ratio="4:3" autoplay=true />
-
+::: center
  ==看完后才可以点击右边==  !!66666!!.
+:::
+<img src="/assets/images/qingdao1.jpg"  width="200" height="300" />
