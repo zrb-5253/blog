@@ -41,7 +41,7 @@ footer: false
 
 <br/>
 <br/>
-
+::: center
 待做清单：
 - [x] 给pm补完今年的生日
 - [ ] 给pm准备明年的生日
